@@ -1,0 +1,1 @@
+It is Sales Remover for Akinsoft Wolvox Erp. Akinsoft is Desktop application for Sales Management. It has firebird database. This project connect firebird database file located on local and delete some datas from spesific tables.
